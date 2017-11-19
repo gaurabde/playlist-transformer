@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -x
+export GOPATH=/$PWD
+
+go build -o ./bin/tranformer main.go

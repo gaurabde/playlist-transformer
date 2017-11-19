@@ -1,0 +1,10 @@
+---
+
+spotify:
+  dev_api_url: https://developer.spotify.com/web-api/console/ #Add it to your config.yml
+  username:
+  token:
+
+youtube:
+  username:
+  token:

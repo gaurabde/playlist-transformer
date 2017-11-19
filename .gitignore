@@ -1,1 +1,8 @@
 config.yml
+out
+pkg
+gobin/*
+*.log
+*.exe
+.idea
+.vagrant
