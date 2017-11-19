@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+export GOPATH=$PWD
+
+go get golang.org/x/net
+go get golang.org/x/tools
+go get google.golang.org/api
+go get gopkg.in/yaml.v2
+
+
